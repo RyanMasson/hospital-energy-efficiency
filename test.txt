@@ -1,6 +1,0 @@
-alskdjfalksdfj
-asdlfkjaslkdfjasd
-alkdsjflaksdjf
-
-
-Using this to work out some trouble I'm seeing with using Jupyter notebooks under version control.
